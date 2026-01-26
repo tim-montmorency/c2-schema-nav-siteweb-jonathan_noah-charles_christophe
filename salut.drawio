@@ -1,0 +1,164 @@
+<mxfile host="65bd71144e">
+    <diagram id="oscfwoj2Fxfbx1gb8nm8" name="Page-1">
+        <mxGraphModel dx="3268" dy="2605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="445" y="140"/>
+                            <mxPoint x="70" y="140"/>
+                            <mxPoint x="70" y="185"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="620" y="-145"/>
+                            <mxPoint x="620" y="140"/>
+                            <mxPoint x="715" y="140"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, system-ui, Ubuntu, Droid Sans, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Accueil&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="-190" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe WPC, Segoe UI, system-ui, Ubuntu, Droid Sans, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Notre histoire&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="660" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;12&quot;&gt;Conditions d&#39;utilisation&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1210" y="880" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="5" target="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1520" y="860"/>
+                            <mxPoint x="1205" y="860"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="&#xa;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;13&quot;&gt;Politique de confidentialité&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1415" y="880" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="715" y="290"/>
+                            <mxPoint x="610" y="290"/>
+                            <mxPoint x="610" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="715" y="290"/>
+                            <mxPoint x="835" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="715" y="290"/>
+                            <mxPoint x="1285" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="715" y="290"/>
+                            <mxPoint x="1055" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; white-space: normal;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line code-active-line&quot; data-line=&quot;14&quot;&gt;&lt;span&gt;Nos produits&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="180" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;16&quot;&gt;Viennoiseries&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="950" y="370" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;26&quot;&gt;FAQ&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1000" y="880" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;25&quot;&gt;Nous joindre&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-100" y="660" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="10" target="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="895" y="860"/>
+                            <mxPoint x="1205" y="860"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;24&quot;&gt;Recrutement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="790" y="880" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;23&quot;&gt;Terrebonne&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-510" y="290" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;17&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;-&lt;/span&gt;&lt;span&gt; Laval&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-510" y="140" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;21&quot;&gt;Montréal&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-510" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;17&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Nos boutiques&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-190" y="140" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;19&quot;&gt;Sandwiches&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="730" y="370" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;18&quot;&gt;Pizzas&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1180" y="370" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;27&quot;&gt;Commande en ligne&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="660" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0.7em; position: relative; color: rgb(204, 204, 204); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;10&quot;&gt;&lt;li style=&quot;position: relative;&quot; dir=&quot;auto&quot; class=&quot;code-line&quot; data-line=&quot;15&quot;&gt;Pains&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="370" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="nav principale&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="-20" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="815" y="888" width="20" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Pied de page&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1080" y="700" width="250" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;Haut de page&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="480" width="250" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.538;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
